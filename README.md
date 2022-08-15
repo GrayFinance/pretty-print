@@ -1,4 +1,4 @@
-# Expanduser
+# Pretty Print
 
 Print JSON beautifully.
 
