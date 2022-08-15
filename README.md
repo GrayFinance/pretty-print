@@ -17,6 +17,6 @@ package main
 import "github.com/GrayFinance/pretty-print"
 
 func main() {
-    pretty.PrettyPrint('{"Twitter":{"url":"https://twitter.com/leffw_", "username":"leffw_"}}')
+	pretty.PrettyPrint("{\"Twitter\":{\"url\":\"https://twitter.com/leffw_\"}}")
 }
 ```
